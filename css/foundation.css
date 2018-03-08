@@ -586,10 +586,12 @@ h2, .h2 {
   margin-bottom: 0.5rem; }
 
 h3, .h3 {
-  font-size: 1.9375rem;
-    font-weight: 600;
+  font-size: 2.5rem;
+    font-weight: 900;
   line-height: 1.4;
   margin-top: 0;
+  letter-spacing: -1px;
+  font-family: 'Cormorant', serif;
   margin-bottom: 0.5rem; }
 
 h4, .h4 {
