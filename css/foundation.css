@@ -581,7 +581,7 @@ h2, .h2 {
     text-transform: uppercase;
     letter-spacing: .25rem;
     font-weight: 600;
-  line-height: 1.4;
+  line-height: 1.2;
   margin-top: 0.5rem;
   margin-bottom: 0.5rem; }
 
@@ -2757,7 +2757,7 @@ select {
 .button {
   display: inline-block;
   vertical-align: middle;
-  margin: 1rem 1rem;
+  margin: 0.5rem 1rem;
   font-family: inherit;
   padding: 1.5em 2em;
   -webkit-appearance: none;
